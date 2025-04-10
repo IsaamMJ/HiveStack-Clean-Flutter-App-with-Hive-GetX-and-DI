@@ -1,5 +1,3 @@
-Absolutely! Here's your full **README content in plain text** for easy copy-pasting:
-
 ---
 
 # 🚗 CarHive — A Flutter App using Clean Architecture + Hive + GetX
