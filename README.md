@@ -110,20 +110,11 @@ Click the 🐞 bug icon in the app bar to **print all car entries** stored in Hi
 
 ## 👨‍💻 Author
 
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
-
----
-
-## ⭐ License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+**Mohamed Isaam**  
+📧 isaam.mj@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/isaammj/)
 
 ---
 
 > Built with ❤️ in Flutter, powered by Hive & GetX
 
----
-
-Let me know if you'd like to customize the **author details**, or want a **shorter version** for a quick portfolio project!
